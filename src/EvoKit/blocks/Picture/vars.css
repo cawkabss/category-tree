@@ -1,0 +1,20 @@
+@custom-media --ek-picture-media-small only screen and (min-width: 480px);
+
+@custom-media --ek-picture-media-medium only screen and (min-width: 640px);
+
+@custom-media --ek-picture-media-large only screen and (min-width: 768px);
+
+@custom-media --ek-picture-media-wide only screen and (min-width: 1000px);
+
+@custom-media --ek-picture-media-huge only screen and (min-width: 1200px);
+
+:root {
+    /* prop 'picture-round' */
+    --ek-picture-round-xxs: 2px;
+    --ek-picture-round-xs: 4px;
+    --ek-picture-round-s: 6px;
+    --ek-picture-round-m: 8px;
+    --ek-picture-round-l: 10px;
+    --ek-picture-round-xl: 12px;
+    --ek-picture-round-xxl: 14px;
+}

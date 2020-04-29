@@ -1,0 +1,37 @@
+:root {
+    --ek-text-color-white: #fff
+}
+
+.ek-text_color_white {
+    color: var(--ek-text-color-white)
+}
+
+@media (--ek-text-media-small) {
+        .ek-text_color_white\@small {
+    color: var(--ek-text-color-white)
+    }
+}
+
+@media (--ek-text-media-medium) {
+        .ek-text_color_white\@medium {
+    color: var(--ek-text-color-white)
+    }
+}
+
+@media (--ek-text-media-large) {
+        .ek-text_color_white\@large {
+    color: var(--ek-text-color-white)
+    }
+}
+
+@media (--ek-text-media-wide) {
+        .ek-text_color_white\@wide {
+    color: var(--ek-text-color-white)
+    }
+}
+
+@media (--ek-text-media-huge) {
+        .ek-text_color_white\@huge {
+    color: var(--ek-text-color-white)
+    }
+}

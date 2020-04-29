@@ -1,0 +1,8 @@
+@import './evokit-link@3.1.0-green-dark-2';
+@import './evokit-link@3.1.0-green-pale-1';
+@import './evokit-link@3.1.0-white';
+
+
+.ek-link_blackhole_white-hover-color:hover {
+    color: #fff;
+}

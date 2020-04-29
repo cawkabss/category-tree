@@ -1,0 +1,20 @@
+@custom-media --ek-line-media-small only screen and (min-width: 480px);
+
+@custom-media --ek-line-media-medium only screen and (min-width: 640px);
+
+@custom-media --ek-line-media-large only screen and (min-width: 768px);
+
+@custom-media --ek-line-media-wide only screen and (min-width: 1000px);
+
+@custom-media --ek-line-media-huge only screen and (min-width: 1200px);
+
+:root {
+    /* prop 'line-indent' */
+    --ek-line-indent-xxs: 5px;
+    --ek-line-indent-xs: 10px;
+    --ek-line-indent-s: 15px;
+    --ek-line-indent-m: 20px;
+    --ek-line-indent-l: 25px;
+    --ek-line-indent-xl: 30px;
+    --ek-line-indent-xxl: 35px
+}

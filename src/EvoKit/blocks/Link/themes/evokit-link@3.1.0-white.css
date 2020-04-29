@@ -1,0 +1,37 @@
+:root {
+    --ek-link-color-white: #fff
+}
+
+.ek-link_color_white {
+    color: var(--ek-link-color-white)
+}
+
+@media (--ek-link-media-small) {
+        .ek-link_color_white\@small {
+    color: var(--ek-link-color-white)
+    }
+}
+
+@media (--ek-link-media-medium) {
+        .ek-link_color_white\@medium {
+    color: var(--ek-link-color-white)
+    }
+}
+
+@media (--ek-link-media-large) {
+        .ek-link_color_white\@large {
+    color: var(--ek-link-color-white)
+    }
+}
+
+@media (--ek-link-media-wide) {
+        .ek-link_color_white\@wide {
+    color: var(--ek-link-color-white)
+    }
+}
+
+@media (--ek-link-media-huge) {
+        .ek-link_color_white\@huge {
+    color: var(--ek-link-color-white)
+    }
+}
