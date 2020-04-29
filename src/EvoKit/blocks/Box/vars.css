@@ -1,0 +1,36 @@
+@custom-media --ek-box-media-small only screen and (min-width: 480px);
+
+@custom-media --ek-box-media-medium only screen and (min-width: 640px);
+
+@custom-media --ek-box-media-large only screen and (min-width: 768px);
+
+@custom-media --ek-box-media-wide only screen and (min-width: 1000px);
+
+@custom-media --ek-box-media-huge only screen and (min-width: 1200px);
+
+:root {
+    /* prop 'box-padding', 'box-margin' */
+    --ek-box-indent-xxs: 5px;
+    --ek-box-indent-xs: 10px;
+    --ek-box-indent-s: 15px;
+    --ek-box-indent-m: 20px;
+    --ek-box-indent-l: 25px;
+    --ek-box-indent-xl: 30px;
+    --ek-box-indent-xxl: 35px;
+    /* prop 'box-round' */
+    --ek-box-round-xxs: 3px;
+    --ek-box-round-xs: 4px;
+    --ek-box-round-s: 6px;
+    --ek-box-round-m: 8px;
+    --ek-box-round-l: 10px;
+    --ek-box-round-xl: 12px;
+    --ek-box-round-xxl: 14px;
+    /* prop 'box-border-width' */
+    --ek-box-border-width-xxs: 1px;
+    --ek-box-border-width-xs: 2px;
+    --ek-box-border-width-s: 3px;
+    --ek-box-border-width-m: 4px;
+    --ek-box-border-width-l: 5px;
+    --ek-box-border-width-xl: 6px;
+    --ek-box-border-width-xxl: 7px;
+}

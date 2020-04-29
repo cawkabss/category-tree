@@ -1,0 +1,15 @@
+@import 'evokit-text/style.css';
+
+/* @import 'evokit-text/style@small.css'; */
+
+@import 'evokit-text/style@medium.css';
+
+@import 'evokit-text/style@large.css';
+
+@import 'evokit-text/style@wide.css';
+
+/* @import 'evokit-text/style@huge.css'; */
+
+@import './themes/style.css';
+
+@import './vars.css';

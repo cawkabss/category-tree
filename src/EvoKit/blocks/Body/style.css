@@ -1,0 +1,11 @@
+@import 'evokit-body/style.css';
+
+@import 'evokit-body/style@small.css';
+@import 'evokit-body/style@medium.css';
+@import 'evokit-body/style@large.css';
+@import 'evokit-body/style@wide.css';
+@import 'evokit-body/style@huge.css';
+
+@import './themes/style.css';
+
+@import './vars.css';

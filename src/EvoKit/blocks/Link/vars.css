@@ -1,0 +1,18 @@
+:root {
+    /* base */
+    --ek-link-line-height: 1.4em;
+    /* prop 'link-size' */
+    --ek-link-size-small: 11px;
+    --ek-link-size-default: 13px;
+    --ek-link-size-big: 15px;
+    --ek-link-size-h1: 24px;
+    --ek-link-size-h2: 22px;
+    --ek-link-size-h3: 20px;
+    --ek-link-size-h4: 18px;
+    --ek-link-size-h5: 16px;
+    --ek-link-size-h6: 14px;
+    /* prop 'link-lheight' */
+    --ek-link-line-height-default: var(--ek-link-line-height);
+    --ek-link-line-height-medium: 1.25em;
+    --ek-link-line-height-large: 1.5em;
+}

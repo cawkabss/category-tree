@@ -1,0 +1,9 @@
+@import './evokit-text@3.1.0-grey-dark-2';
+@import './evokit-text@3.1.0-orange-dark-2';
+@import './evokit-text@3.1.0-white';
+@import './evokit-text@3.1.0-red';
+
+
+.ek-text_blackhole_pre-line {
+    white-space: pre-line;
+}
